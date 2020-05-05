@@ -1,0 +1,5 @@
+# Virtual env
+venv
+
+# Banco
+db.sqlite3
